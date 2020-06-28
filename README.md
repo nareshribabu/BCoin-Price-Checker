@@ -1,4 +1,5 @@
-# Bit-Coin-Price
+# BCoin-Price-Checker
+
 iOS Bit Coin Price Reporter App
 
 This app will provide the Bitcoin prices in many different currencies. <br/>
